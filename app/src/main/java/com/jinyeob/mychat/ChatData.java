@@ -2,7 +2,7 @@ package com.jinyeob.mychat;
 
 import java.io.Serializable;
 
-public class ChatData implements Serializable {
+public class ChatData {
     private String msg;
     private String nickname;
 
